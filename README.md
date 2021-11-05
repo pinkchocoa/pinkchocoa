@@ -1,7 +1,11 @@
 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true&count_private=true&custom_title=&#9729;%20pinkchocoa%20&#9729;)
+<a href="https://github.com/pinkchocoa">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true&count_private=true&custom_title=&#9729;%20pinkchocoa%20&#9729;"/>
+</a>
 
+
+<br><br>
 📚 School Projects
 
 <a href="https://github.com/pinkchocoa/TraceTogether-Simulation">
