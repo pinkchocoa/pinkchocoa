@@ -1,4 +1,13 @@
-![](https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true)
+📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true&count_private=true&custom_title=&#9729;%20pinkchocoa%20&#9729;)
+
+📚 School Projects
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=TraceTogether-Simulation&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1010-VAI-Home-Automation&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1007&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1009-Data-Crawl&theme=tokyonight&show_icons=true)
 
 
 <!--
