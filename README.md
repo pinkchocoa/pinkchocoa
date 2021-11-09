@@ -23,7 +23,7 @@
 
 
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">github readme stats</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">above graphics is from anuraghazra, github-readme-stats!</a>
 
 <!--
 **pinkchocoa/pinkchocoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
