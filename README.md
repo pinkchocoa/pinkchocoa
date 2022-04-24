@@ -14,13 +14,9 @@
 <a href="https://github.com/pinkchocoa/CSC1010-VAI-Home-Automation">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1010-VAI-Home-Automation&theme=tokyonight&show_icons=true"/>
 </a>
-<a href="https://github.com/pinkchocoa/CSC1009-Data-Crawl">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1009-Data-Crawl&theme=tokyonight&show_icons=true"/>
+<a href="https://github.com/pinkchocoa/SIT-Time-Table-Grabber">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=SIT-Time-Table-Grabber&theme=tokyonight&show_icons=true"/>
 </a>
-<a href="https://github.com/pinkchocoa/CSC1007">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1007&theme=tokyonight&show_icons=true"/>
-</a>
-
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">above graphics is from anuraghazra, github-readme-stats!</a>
