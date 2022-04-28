@@ -11,8 +11,8 @@
 <a href="https://github.com/pinkchocoa/TraceTogether-Simulation">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=TraceTogether-Simulation&theme=tokyonight&show_icons=true"/>
 </a>
-<a href="https://github.com/pinkchocoa/CSC1010-VAI-Home-Automation">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1010-VAI-Home-Automation&theme=tokyonight&show_icons=true"/>
+<a href="https://github.com/pinkchocoa/VAI-Home-Automation">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=VAI-Home-Automation&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="https://github.com/pinkchocoa/SIT-Time-Table-Grabber">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=SIT-Time-Table-Grabber&theme=tokyonight&show_icons=true"/>
