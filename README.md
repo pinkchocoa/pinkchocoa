@@ -4,6 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true&count_private=true&custom_title=&#9729;%20pinkchocoa%20&#9729;"/>
 </a>
 
+- 🔭 I’m currently studying at Singapore Institute of Technology x University of Glasgow Computing Science.
 
 <br><br>
 📚 School Projects
