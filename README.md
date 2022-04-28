@@ -1,13 +1,14 @@
-📊 GitHub Statistics
+🔭 I’m currently studying Computing Science at Singapore Institute of Technology x University of Glasgow. <br>
+
+# 📊 GitHub Statistics
 
 <a href="https://github.com/pinkchocoa">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkchocoa&theme=tokyonight&show_icons=true&count_private=true&custom_title=&#9729;%20pinkchocoa%20&#9729;"/>
 </a>
-<br>
-- 🔭 I’m currently studying at Singapore Institute of Technology x University of Glasgow Computing Science.
 
-<br><br>
-📚 School Projects
+<br>
+
+# 📚 Projects
 
 <a href="https://github.com/pinkchocoa/TraceTogether-Simulation">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=TraceTogether-Simulation&theme=tokyonight&show_icons=true"/>
