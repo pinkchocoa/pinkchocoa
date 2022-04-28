@@ -20,8 +20,8 @@
 <a href="https://github.com/pinkchocoa/CookieBlade">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CookieBlade&theme=tokyonight&show_icons=true"/>
 </a>
-<a href="https://github.com/pinkchocoa/CSC1007">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=CSC1007&theme=tokyonight&show_icons=true"/>
+<a href="https://github.com/pinkchocoa/Operating-Systems-Assessed-Coursework">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Operating-Systems-Assessed-Coursework&theme=tokyonight&show_icons=true"/>
 </a>
 
 <br><br>
