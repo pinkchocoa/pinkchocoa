@@ -26,7 +26,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Operating-Systems-Assessed-Coursework&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="https://github.com/pinkchocoa/Hey-Buddy-Robotic-Car">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Operating-Systems-Assessed-Coursework&theme=tokyonight&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Hey-Buddy-Robotic-Car&theme=tokyonight&show_icons=true"/>
 </a>
 
 <br><br>
