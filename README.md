@@ -25,6 +25,9 @@
 <a href="https://github.com/pinkchocoa/Operating-Systems-Assessed-Coursework">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Operating-Systems-Assessed-Coursework&theme=tokyonight&show_icons=true"/>
 </a>
+<a href="https://github.com/pinkchocoa/Hey-Buddy-Robotic-Car">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinkchocoa&repo=Operating-Systems-Assessed-Coursework&theme=tokyonight&show_icons=true"/>
+</a>
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">above graphics is from anuraghazra, github-readme-stats!</a>
